@@ -1,0 +1,170 @@
+{
+    "active": true,
+    "character": "Silent",
+    "current_hp": 24,
+    "max_hp": 70,
+    "gold": 146,
+    "act": 1,
+    "floor": 6,
+    "deck": [
+        "CARD.STRIKE_SILENT",
+        "CARD.STRIKE_SILENT",
+        "CARD.STRIKE_SILENT",
+        "CARD.STRIKE_SILENT",
+        "CARD.STRIKE_SILENT",
+        "CARD.DEFEND_SILENT",
+        "CARD.DEFEND_SILENT",
+        "CARD.DEFEND_SILENT",
+        "CARD.DEFEND_SILENT",
+        "CARD.DEFEND_SILENT",
+        "CARD.NEUTRALIZE",
+        "CARD.SURVIVOR",
+        "CARD.ASCENDERS_BANE",
+        "CARD.FLICK_FLACK",
+        "CARD.SNAKEBITE",
+        "CARD.BUBBLE_BUBBLE",
+        "CARD.UNTOUCHABLE",
+        "CARD.PREPARED",
+        "CARD.FOOTWORK"
+    ],
+    "deck_upgrades": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "relics": [
+        "RELIC.RING_OF_THE_SNAKE",
+        "RELIC.SCROLL_BOXES"
+    ],
+    "potions": [],
+    "events_seen": [
+        "EVENT.SELF_HELP_BOOK"
+    ],
+    "encounters_won": [],
+    "floors": [
+        {
+            "floor": 1,
+            "type": "ancient",
+            "encounter": "EVENT.NEOW",
+            "monsters": [],
+            "turns": 0,
+            "damage_taken": 0,
+            "hp_healed": 0,
+            "current_hp": 0,
+            "max_hp": 0,
+            "gold": 0,
+            "cards_offered": [],
+            "card_picked": "",
+            "potions_used": [],
+            "potions_gained": []
+        },
+        {
+            "floor": 2,
+            "type": "monster",
+            "encounter": "ENCOUNTER.FUZZY_WURM_CRAWLER_WEAK",
+            "monsters": [
+                "MONSTER.FUZZY_WURM_CRAWLER"
+            ],
+            "turns": 4,
+            "damage_taken": 0,
+            "hp_healed": 0,
+            "current_hp": 0,
+            "max_hp": 0,
+            "gold": 0,
+            "cards_offered": [],
+            "card_picked": "",
+            "potions_used": [],
+            "potions_gained": []
+        },
+        {
+            "floor": 3,
+            "type": "unknown",
+            "encounter": "EVENT.SELF_HELP_BOOK",
+            "monsters": [],
+            "turns": 0,
+            "damage_taken": 0,
+            "hp_healed": 0,
+            "current_hp": 0,
+            "max_hp": 0,
+            "gold": 0,
+            "cards_offered": [],
+            "card_picked": "",
+            "potions_used": [],
+            "potions_gained": []
+        },
+        {
+            "floor": 4,
+            "type": "monster",
+            "encounter": "ENCOUNTER.NIBBITS_WEAK",
+            "monsters": [
+                "MONSTER.NIBBIT"
+            ],
+            "turns": 4,
+            "damage_taken": 0,
+            "hp_healed": 0,
+            "current_hp": 0,
+            "max_hp": 0,
+            "gold": 0,
+            "cards_offered": [],
+            "card_picked": "",
+            "potions_used": [],
+            "potions_gained": []
+        },
+        {
+            "floor": 5,
+            "type": "monster",
+            "encounter": "ENCOUNTER.SLIMES_WEAK",
+            "monsters": [
+                "MONSTER.LEAF_SLIME_S",
+                "MONSTER.LEAF_SLIME_M",
+                "MONSTER.TWIG_SLIME_S"
+            ],
+            "turns": 4,
+            "damage_taken": 0,
+            "hp_healed": 0,
+            "current_hp": 0,
+            "max_hp": 0,
+            "gold": 0,
+            "cards_offered": [],
+            "card_picked": "",
+            "potions_used": [],
+            "potions_gained": []
+        },
+        {
+            "floor": 6,
+            "type": "unknown",
+            "encounter": "ENCOUNTER.RUBY_RAIDERS_NORMAL",
+            "monsters": [
+                "MONSTER.BRUTE_RUBY_RAIDER",
+                "MONSTER.ASSASSIN_RUBY_RAIDER",
+                "MONSTER.AXE_RUBY_RAIDER"
+            ],
+            "turns": 6,
+            "damage_taken": 0,
+            "hp_healed": 0,
+            "current_hp": 0,
+            "max_hp": 0,
+            "gold": 0,
+            "cards_offered": [],
+            "card_picked": "",
+            "potions_used": [],
+            "potions_gained": []
+        }
+    ]
+}
